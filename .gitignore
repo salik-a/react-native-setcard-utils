@@ -1,0 +1,31 @@
+# React Native
+node_modules/
+ios/
+android/
+*.log
+*.lock
+*.tmp
+*.temp
+
+# macOS
+.DS_Store
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+
+# Android
+*.iml
+.gradle/
+local.properties
+.idea/
+*.keystore
+build/
+
+# React Native Packager
+*.packager
+*.packager.pid
+
+# Misc
+.env
